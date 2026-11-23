@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Asymmetric stick-slip in a robotic grasp on a spinning body: code and data"
+authors:
+  - family-names: Jahanshahi
+    given-names: Hadi
+    email: hadij@yorku.ca
+    affiliation: York University
+  - family-names: Zhu
+    given-names: Zheng H.
+    email: gzhu@yorku.ca
+    affiliation: York University
+repository-code: "https://github.com/HJahanshahi/grasp-stick-slip"
+license: MIT
+preferred-citation:
+  type: article
+  title: "A stiff robotic grasp stores and returns the spin of a captured body through asymmetric stick-slip"
+  authors:
+    - family-names: Jahanshahi
+      given-names: Hadi
+    - family-names: Zhu
+      given-names: Zheng H.
+  year: 2026
+  status: submitted

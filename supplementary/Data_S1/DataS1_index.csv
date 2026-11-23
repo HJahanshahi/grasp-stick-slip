@@ -1,0 +1,684 @@
+﻿figure,panel,series_no,series,x_quantity,y_quantity,points
+Fig. 1,C,1,law at 25 N,rim angle (deg),torque (N·m),2400
+Fig. 1,C,2,"law at 50 N, wedging",rim angle (deg),torque (N·m),973
+Fig. 1,C,3,"law at 50 N, slip",rim angle (deg),torque (N·m),973
+Fig. 1,C,4,"law at 50 N, stick",rim angle (deg),torque (N·m),229
+Fig. 1,C,5,"law at 50 N, stick",rim angle (deg),torque (N·m),228
+Fig. 1,D,1,"rigid hand, law",time from contact (s),target spin (deg/s),1638
+Fig. 1,D,2,"rigid hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 1,D,3,"damping hand, law",time from contact (s),target spin (deg/s),1638
+Fig. 1,D,4,"damping hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 3,A,1,"measured, rim rate +0 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),492
+Fig. 3,A,2,"measured, rim rate +12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),503
+Fig. 3,A,3,"measured, rim rate -24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),502
+Fig. 3,A,4,"measured, rim rate +0 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),497
+Fig. 3,A,5,"measured, rim rate -12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),499
+Fig. 3,A,6,"measured, rim rate +0 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),500
+Fig. 3,A,7,"measured, rim rate +12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,A,8,"measured, rim rate +12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),504
+Fig. 3,A,9,"measured, rim rate +24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),509
+Fig. 3,A,10,"measured, rim rate +0 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),492
+Fig. 3,A,11,"measured, rim rate +24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),509
+Fig. 3,A,12,"measured, rim rate -24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),492
+Fig. 3,A,13,"measured, rim rate -12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),498
+Fig. 3,A,14,"measured, rim rate +24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),509
+Fig. 3,A,15,"measured, rim rate -24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),506
+Fig. 3,A,16,"measured, rim rate -12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),498
+Fig. 3,A,17,"measured, rim rate +0 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),505
+Fig. 3,A,18,"measured, rim rate -24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),504
+Fig. 3,A,19,"measured, rim rate +12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),506
+Fig. 3,A,20,"measured, rim rate -12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,A,21,"measured, rim rate +24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),506
+Fig. 3,A,22,"measured, rim rate +12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),497
+Fig. 3,A,23,"measured, rim rate +0 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),497
+Fig. 3,A,24,"measured, rim rate -24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),505
+Fig. 3,A,25,"measured, rim rate +12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),505
+Fig. 3,A,26,"measured, rim rate +24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),510
+Fig. 3,A,27,"measured, rim rate +24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,A,28,"measured, rim rate -12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),501
+Fig. 3,A,29,"measured, rim rate -12 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),505
+Fig. 3,A,30,"measured, rim rate -24 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),499
+Fig. 3,A,31,"measured, rim rate +3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),509
+Fig. 3,A,32,"measured, rim rate -30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),501
+Fig. 3,A,33,"measured, rim rate +3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),517
+Fig. 3,A,34,"measured, rim rate +30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),509
+Fig. 3,A,35,"measured, rim rate -30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),499
+Fig. 3,A,36,"measured, rim rate +30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,A,37,"measured, rim rate -3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),503
+Fig. 3,A,38,"measured, rim rate -30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),501
+Fig. 3,A,39,"measured, rim rate +30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),504
+Fig. 3,A,40,"measured, rim rate -30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),503
+Fig. 3,A,41,"measured, rim rate -3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),519
+Fig. 3,A,42,"measured, rim rate +30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),504
+Fig. 3,A,43,"measured, rim rate -3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),498
+Fig. 3,A,44,"measured, rim rate -30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),483
+Fig. 3,A,45,"measured, rim rate -30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),502
+Fig. 3,A,46,"measured, rim rate -3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),500
+Fig. 3,A,47,"measured, rim rate +3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,A,48,"measured, rim rate +30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,A,49,"measured, rim rate -3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),501
+Fig. 3,A,50,"measured, rim rate +3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),503
+Fig. 3,A,51,"measured, rim rate +3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),506
+Fig. 3,A,52,"measured, rim rate +3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),506
+Fig. 3,A,53,"measured, rim rate -3 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),490
+Fig. 3,A,54,"measured, rim rate +30 deg/s",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,A,55,"law, one hold",rim angle turned since contact (deg),torque on the hand (N·m),499
+Fig. 3,A,56,"law, one hold",rim angle turned since contact (deg),torque on the hand (N·m),508
+Fig. 3,B,1,median at each rim rate,rim angle turned since contact (deg),grasp force rise (N),9
+Fig. 3,B,2,"holds, grip setting 40",rim angle turned since contact (deg),grasp force rise (N),18
+Fig. 3,B,3,"holds, grip setting 100",rim angle turned since contact (deg),grasp force rise (N),18
+Fig. 3,B,4,"holds, grip setting 180",rim angle turned since contact (deg),grasp force rise (N),18
+Fig. 4,A,1,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1507
+Fig. 4,A,2,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1511
+Fig. 4,A,3,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1513
+Fig. 4,A,4,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1517
+Fig. 4,A,5,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1519
+Fig. 4,A,6,"law, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1519
+Fig. 4,A,7,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1514
+Fig. 4,A,8,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1509
+Fig. 4,A,9,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1520
+Fig. 4,A,10,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1503
+Fig. 4,A,11,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2247
+Fig. 4,A,12,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2248
+Fig. 4,A,13,"law, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2248
+Fig. 4,A,14,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2246
+Fig. 4,A,15,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2249
+Fig. 4,A,16,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2250
+Fig. 4,A,17,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2248
+Fig. 4,B,1,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1514
+Fig. 4,B,2,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1511
+Fig. 4,B,3,"law, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1511
+Fig. 4,B,4,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1512
+Fig. 4,B,5,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1510
+Fig. 4,B,6,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1505
+Fig. 4,B,7,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1507
+Fig. 4,B,8,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1502
+Fig. 4,B,9,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1509
+Fig. 4,B,10,"measured, slip direction first",rim angle turned since contact (deg),torque on the hand (N·m),1515
+Fig. 4,B,11,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2254
+Fig. 4,B,12,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2248
+Fig. 4,B,13,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2243
+Fig. 4,B,14,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2249
+Fig. 4,B,15,"law, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2249
+Fig. 4,B,16,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2234
+Fig. 4,B,17,"measured, wedging direction first",rim angle turned since contact (deg),torque on the hand (N·m),2245
+Fig. 5,,1,holds of 1 s,measured torque at the end of the hold (N·m),torque predicted by the law (N·m),72
+Fig. 5,,2,holds of 0.2 to 0.6 s,measured torque at the end of the hold (N·m),torque predicted by the law (N·m),112
+Fig. 5,,3,rim at rest (law gives zero),measured torque at the end of the hold (N·m),torque predicted by the law (N·m),36
+Fig. 6,"A, I = 0.5 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),397
+Fig. 6,"A, I = 0.5 kg·m²",2,"rigid hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 0.5 kg·m²",3,"rigid hand, law",time from contact (s),target spin (deg/s),1640
+Fig. 6,"A, I = 0.5 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),404
+Fig. 6,"A, I = 0.5 kg·m²",5,"rigid hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 0.5 kg·m²",6,"rigid hand, law",time from contact (s),target spin (deg/s),1652
+Fig. 6,"A, I = 0.5 kg·m²",7,"damping hand, hardware",time from contact (s),target spin (deg/s),273
+Fig. 6,"A, I = 0.5 kg·m²",8,"damping hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 0.5 kg·m²",9,"damping hand, law",time from contact (s),target spin (deg/s),1128
+Fig. 6,"A, I = 0.5 kg·m²",10,"damping hand, hardware",time from contact (s),target spin (deg/s),273
+Fig. 6,"A, I = 0.5 kg·m²",11,"damping hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 0.5 kg·m²",12,"damping hand, law",time from contact (s),target spin (deg/s),1128
+Fig. 6,"A, I = 1 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),397
+Fig. 6,"A, I = 1 kg·m²",2,"rigid hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 1 kg·m²",3,"rigid hand, law",time from contact (s),target spin (deg/s),1640
+Fig. 6,"A, I = 1 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),397
+Fig. 6,"A, I = 1 kg·m²",5,"rigid hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 1 kg·m²",6,"rigid hand, law",time from contact (s),target spin (deg/s),1640
+Fig. 6,"A, I = 1 kg·m²",7,"damping hand, hardware",time from contact (s),target spin (deg/s),273
+Fig. 6,"A, I = 1 kg·m²",8,"damping hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 1 kg·m²",9,"damping hand, law",time from contact (s),target spin (deg/s),1128
+Fig. 6,"A, I = 1 kg·m²",10,"damping hand, hardware",time from contact (s),target spin (deg/s),275
+Fig. 6,"A, I = 1 kg·m²",11,"damping hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 1 kg·m²",12,"damping hand, law",time from contact (s),target spin (deg/s),1135
+Fig. 6,"A, I = 2 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),398
+Fig. 6,"A, I = 2 kg·m²",2,"rigid hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 2 kg·m²",3,"rigid hand, law",time from contact (s),target spin (deg/s),1643
+Fig. 6,"A, I = 2 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),398
+Fig. 6,"A, I = 2 kg·m²",5,"rigid hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 2 kg·m²",6,"rigid hand, law",time from contact (s),target spin (deg/s),1643
+Fig. 6,"A, I = 2 kg·m²",7,"damping hand, hardware",time from contact (s),target spin (deg/s),311
+Fig. 6,"A, I = 2 kg·m²",8,"damping hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 2 kg·m²",9,"damping hand, law",time from contact (s),target spin (deg/s),1284
+Fig. 6,"A, I = 2 kg·m²",10,"damping hand, hardware",time from contact (s),target spin (deg/s),445
+Fig. 6,"A, I = 2 kg·m²",11,"damping hand, release",time from contact (s),target spin (deg/s),1
+Fig. 6,"A, I = 2 kg·m²",12,"damping hand, law",time from contact (s),target spin (deg/s),1844
+Fig. 6,"B, I = 0.5 kg·m²",1,"rigid hand, hardware",time from contact (s),torque on the target (N·m),274
+Fig. 6,"B, I = 0.5 kg·m²",2,"rigid hand, law",time from contact (s),torque on the target (N·m),1128
+Fig. 6,"B, I = 0.5 kg·m²",3,"rigid hand, hardware",time from contact (s),torque on the target (N·m),277
+Fig. 6,"B, I = 0.5 kg·m²",4,"rigid hand, law",time from contact (s),torque on the target (N·m),1140
+Fig. 6,"B, I = 0.5 kg·m²",5,"damping hand, hardware",time from contact (s),torque on the target (N·m),150
+Fig. 6,"B, I = 0.5 kg·m²",6,"damping hand, law",time from contact (s),torque on the target (N·m),616
+Fig. 6,"B, I = 0.5 kg·m²",7,"damping hand, hardware",time from contact (s),torque on the target (N·m),150
+Fig. 6,"B, I = 0.5 kg·m²",8,"damping hand, law",time from contact (s),torque on the target (N·m),616
+Fig. 6,"B, I = 1 kg·m²",1,"rigid hand, hardware",time from contact (s),torque on the target (N·m),274
+Fig. 6,"B, I = 1 kg·m²",2,"rigid hand, law",time from contact (s),torque on the target (N·m),1128
+Fig. 6,"B, I = 1 kg·m²",3,"rigid hand, hardware",time from contact (s),torque on the target (N·m),279
+Fig. 6,"B, I = 1 kg·m²",4,"rigid hand, law",time from contact (s),torque on the target (N·m),1148
+Fig. 6,"B, I = 1 kg·m²",5,"damping hand, hardware",time from contact (s),torque on the target (N·m),151
+Fig. 6,"B, I = 1 kg·m²",6,"damping hand, law",time from contact (s),torque on the target (N·m),620
+Fig. 6,"B, I = 1 kg·m²",7,"damping hand, hardware",time from contact (s),torque on the target (N·m),158
+Fig. 6,"B, I = 1 kg·m²",8,"damping hand, law",time from contact (s),torque on the target (N·m),648
+Fig. 6,"B, I = 2 kg·m²",1,"rigid hand, hardware",time from contact (s),torque on the target (N·m),277
+Fig. 6,"B, I = 2 kg·m²",2,"rigid hand, law",time from contact (s),torque on the target (N·m),1140
+Fig. 6,"B, I = 2 kg·m²",3,"rigid hand, hardware",time from contact (s),torque on the target (N·m),278
+Fig. 6,"B, I = 2 kg·m²",4,"rigid hand, law",time from contact (s),torque on the target (N·m),1143
+Fig. 6,"B, I = 2 kg·m²",5,"damping hand, hardware",time from contact (s),torque on the target (N·m),191
+Fig. 6,"B, I = 2 kg·m²",6,"damping hand, law",time from contact (s),torque on the target (N·m),785
+Fig. 6,"B, I = 2 kg·m²",7,"damping hand, hardware",time from contact (s),torque on the target (N·m),328
+Fig. 6,"B, I = 2 kg·m²",8,"damping hand, law",time from contact (s),torque on the target (N·m),1357
+Fig. 6,"C, I = 0.5 kg·m²",1,"damping hand, hardware",time from contact (s),hand angle (deg),124
+Fig. 6,"C, I = 0.5 kg·m²",2,"damping hand, law",time from contact (s),hand angle (deg),514
+Fig. 6,"C, I = 0.5 kg·m²",3,"damping hand, hardware",time from contact (s),hand angle (deg),124
+Fig. 6,"C, I = 0.5 kg·m²",4,"damping hand, law",time from contact (s),hand angle (deg),514
+Fig. 6,"C, I = 1 kg·m²",1,"damping hand, hardware",time from contact (s),hand angle (deg),124
+Fig. 6,"C, I = 1 kg·m²",2,"damping hand, law",time from contact (s),hand angle (deg),513
+Fig. 6,"C, I = 1 kg·m²",3,"damping hand, hardware",time from contact (s),hand angle (deg),126
+Fig. 6,"C, I = 1 kg·m²",4,"damping hand, law",time from contact (s),hand angle (deg),521
+Fig. 6,"C, I = 2 kg·m²",1,"damping hand, hardware",time from contact (s),hand angle (deg),162
+Fig. 6,"C, I = 2 kg·m²",2,"damping hand, law",time from contact (s),hand angle (deg),670
+Fig. 6,"C, I = 2 kg·m²",3,"damping hand, hardware",time from contact (s),hand angle (deg),296
+Fig. 6,"C, I = 2 kg·m²",4,"damping hand, law",time from contact (s),hand angle (deg),1230
+Fig. 6,D,1,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,2,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,3,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,4,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,5,"mean, rigid hand, hardware",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,6,"mean, rigid hand, law",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,7,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,8,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,9,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,10,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,11,"mean, rigid hand, hardware",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,12,"mean, rigid hand, law",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,13,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,14,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,15,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,16,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,17,"mean, rigid hand, hardware",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,18,"mean, rigid hand, law",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,19,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,20,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,21,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,22,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,23,"mean, damping hand, hardware",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,24,"mean, damping hand, law",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,25,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,26,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,27,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,28,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,29,"mean, damping hand, hardware",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,30,"mean, damping hand, law",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,31,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,32,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,33,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,34,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin after release (deg/s),1
+Fig. 6,D,35,"mean, damping hand, hardware",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,D,36,"mean, damping hand, law",target inertia (kg·m²),spin after release (deg/s),2
+Fig. 6,E,1,"rigid hand, trials",release impulse divided by inertia (deg/s),spin change at release (deg/s),12
+Fig. 6,E,2,"damping hand, trials",release impulse divided by inertia (deg/s),spin change at release (deg/s),12
+Fig. 7,"A, I = 0.58 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),480
+Fig. 7,"A, I = 0.58 kg·m²",2,"rigid hand, law",time from contact (s),target spin (deg/s),1813
+Fig. 7,"A, I = 0.58 kg·m²",3,"rigid hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 0.58 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),480
+Fig. 7,"A, I = 0.58 kg·m²",5,"rigid hand, law",time from contact (s),target spin (deg/s),1815
+Fig. 7,"A, I = 0.58 kg·m²",6,"rigid hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 0.58 kg·m²",7,"damping hand, hardware",time from contact (s),target spin (deg/s),293
+Fig. 7,"A, I = 0.58 kg·m²",8,"damping hand, law",time from contact (s),target spin (deg/s),1045
+Fig. 7,"A, I = 0.58 kg·m²",9,"damping hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 0.58 kg·m²",10,"damping hand, hardware",time from contact (s),target spin (deg/s),294
+Fig. 7,"A, I = 0.58 kg·m²",11,"damping hand, law",time from contact (s),target spin (deg/s),1050
+Fig. 7,"A, I = 0.58 kg·m²",12,"damping hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 1.16 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),481
+Fig. 7,"A, I = 1.16 kg·m²",2,"rigid hand, law",time from contact (s),target spin (deg/s),1817
+Fig. 7,"A, I = 1.16 kg·m²",3,"rigid hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 1.16 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),480
+Fig. 7,"A, I = 1.16 kg·m²",5,"rigid hand, law",time from contact (s),target spin (deg/s),1811
+Fig. 7,"A, I = 1.16 kg·m²",6,"rigid hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 1.16 kg·m²",7,"damping hand, hardware",time from contact (s),target spin (deg/s),294
+Fig. 7,"A, I = 1.16 kg·m²",8,"damping hand, law",time from contact (s),target spin (deg/s),1053
+Fig. 7,"A, I = 1.16 kg·m²",9,"damping hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 1.16 kg·m²",10,"damping hand, hardware",time from contact (s),target spin (deg/s),293
+Fig. 7,"A, I = 1.16 kg·m²",11,"damping hand, law",time from contact (s),target spin (deg/s),1048
+Fig. 7,"A, I = 1.16 kg·m²",12,"damping hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 2.32 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),664
+Fig. 7,"A, I = 2.32 kg·m²",2,"rigid hand, law",time from contact (s),target spin (deg/s),2567
+Fig. 7,"A, I = 2.32 kg·m²",3,"rigid hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 2.32 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),794
+Fig. 7,"A, I = 2.32 kg·m²",5,"rigid hand, law",time from contact (s),target spin (deg/s),3099
+Fig. 7,"A, I = 2.32 kg·m²",6,"rigid hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 2.32 kg·m²",7,"damping hand, hardware",time from contact (s),target spin (deg/s),334
+Fig. 7,"A, I = 2.32 kg·m²",8,"damping hand, law",time from contact (s),target spin (deg/s),1217
+Fig. 7,"A, I = 2.32 kg·m²",9,"damping hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,"A, I = 2.32 kg·m²",10,"damping hand, hardware",time from contact (s),target spin (deg/s),314
+Fig. 7,"A, I = 2.32 kg·m²",11,"damping hand, law",time from contact (s),target spin (deg/s),1132
+Fig. 7,"A, I = 2.32 kg·m²",12,"damping hand, fingers open",time from contact (s),target spin (deg/s),1
+Fig. 7,B,1,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,2,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,3,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,4,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,5,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,6,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,7,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,8,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,9,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,10,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,11,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,12,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,13,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,14,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,15,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,16,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,17,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,18,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,19,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,20,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,21,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,22,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,23,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,24,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,25,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,26,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,27,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,28,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,29,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,30,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,31,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,32,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,33,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,34,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,35,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,36,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,37,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,38,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,39,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,40,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,41,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,42,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,43,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,44,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,45,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,46,"trial, rigid hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,47,"trial, damping hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,48,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,49,"trial, damping hand, negative starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,B,50,"trial, rigid hand, positive starting spin",measured stop time (s),law stop time (s),1
+Fig. 7,C,1,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,2,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,3,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,4,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,5,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,6,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,7,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,8,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,9,"mean, rigid hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,10,"mean, rigid hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,11,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,12,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,13,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,14,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,15,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,16,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,17,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,18,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,19,"mean, damping hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,20,"mean, damping hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,21,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,22,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,23,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,24,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,25,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,26,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,27,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,28,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,29,"mean, rigid hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,30,"mean, rigid hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,31,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,32,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,33,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,34,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,35,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,36,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,37,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,38,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,39,"mean, damping hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,40,"mean, damping hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,41,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,42,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,43,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,44,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,45,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,46,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,47,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,48,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,49,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,50,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,51,"mean, rigid hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,52,"mean, rigid hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,53,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,54,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,55,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),0
+Fig. 7,C,56,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),0
+Fig. 7,C,57,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,58,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,59,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,60,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,61,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,62,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,63,"mean, damping hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,64,"mean, damping hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,65,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,66,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,67,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,68,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,69,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,70,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,71,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,72,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,73,"mean, rigid hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,74,"mean, rigid hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,75,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,76,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,77,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,78,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,79,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,80,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,81,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,82,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),rebound while held (deg/s),1
+Fig. 7,C,83,"mean, damping hand, hardware",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,C,84,"mean, damping hand, law",target inertia (kg·m²),rebound while held (deg/s),2
+Fig. 7,D,1,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,2,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,3,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,4,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,5,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,6,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,7,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,8,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,9,"mean, rigid hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,10,"mean, rigid hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,11,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,12,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,13,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,14,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,15,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,16,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,17,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,18,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,19,"mean, damping hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,20,"mean, damping hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,21,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,22,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,23,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,24,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,25,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,26,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,27,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,28,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,29,"mean, rigid hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,30,"mean, rigid hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,31,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,32,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,33,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,34,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,35,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,36,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,37,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,38,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,39,"mean, damping hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,40,"mean, damping hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,41,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,42,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,43,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,44,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,45,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,46,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,47,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,48,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,49,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,50,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,51,"mean, rigid hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,52,"mean, rigid hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,53,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,54,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,55,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,56,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,57,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,58,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,59,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,60,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,61,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,62,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,63,"mean, damping hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,64,"mean, damping hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,65,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,66,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,67,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,68,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,69,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,70,"trial (hardware), rigid hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,71,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,72,"trial (hardware), rigid hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,73,"mean, rigid hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,74,"mean, rigid hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,75,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,76,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,77,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,78,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,79,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,80,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,81,"trial (hardware), damping hand, positive starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,82,"trial (hardware), damping hand, negative starting spin",target inertia (kg·m²),spin at release (deg/s),1
+Fig. 7,D,83,"mean, damping hand, hardware",target inertia (kg·m²),spin at release (deg/s),2
+Fig. 7,D,84,"mean, damping hand, law",target inertia (kg·m²),spin at release (deg/s),2
+Fig. S1,A,1,chaser,time from contact (s),force rise (N),1417
+Fig. S1,A,2,target,time from contact (s),force rise (N),1417
+Fig. S1,B,1,torque on the hand,time from contact (s),torque on the hand (N·m),1417
+Fig. S1,C,1,measured,time from contact (s),rim rate (deg/s),1417
+Fig. S1,C,2,commanded,time from contact (s),rim rate (deg/s),4
+Fig. S1,D,1,finger A,time from contact (s),finger position (hand units),53
+Fig. S1,D,2,finger B,time from contact (s),finger position (hand units),53
+Fig. S1,D,3,finger C,time from contact (s),finger position (hand units),53
+Fig. S1,E,1,sensor 1,time from contact (s),tactile deviation (1000 counts),134
+Fig. S1,E,2,sensor 2,time from contact (s),tactile deviation (1000 counts),134
+Fig. S1,E,3,sensor 3,time from contact (s),tactile deviation (1000 counts),134
+Fig. S2,A,1,speed setting 40,time from contact (s),force rise (N),96
+Fig. S2,A,2,speed setting 100,time from contact (s),force rise (N),111
+Fig. S2,A,3,speed setting 170,time from contact (s),force rise (N),111
+Fig. S2,A,4,speed setting 255,time from contact (s),force rise (N),111
+Fig. S2,B,1,"trials, speed setting 255",finger speed before contact (units/s),loading rate (N/s),76
+Fig. S2,B,2,"trials, speed setting 40",finger speed before contact (units/s),loading rate (N/s),84
+Fig. S2,C,1,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,2,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,3,"trial, speed setting 40",finger travel since contact (units),force rise (N),9
+Fig. S2,C,4,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,5,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,6,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,7,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,8,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,9,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,10,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,11,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,12,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,13,"trial, speed setting 40",finger travel since contact (units),force rise (N),11
+Fig. S2,C,14,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,15,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,16,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,17,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,18,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,19,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,20,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,21,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,22,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,23,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,24,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,25,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,26,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,27,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,28,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,29,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,30,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,31,"trial, speed setting 40",finger travel since contact (units),force rise (N),9
+Fig. S2,C,32,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,33,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,34,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,35,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,36,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,37,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,38,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,39,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,40,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,41,"trial, speed setting 100",finger travel since contact (units),force rise (N),5
+Fig. S2,C,42,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,43,"trial, speed setting 255",finger travel since contact (units),force rise (N),7
+Fig. S2,C,44,"trial, speed setting 40",finger travel since contact (units),force rise (N),9
+Fig. S2,C,45,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,46,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,47,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,48,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,49,"trial, speed setting 40",finger travel since contact (units),force rise (N),8
+Fig. S2,C,50,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,51,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,52,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,53,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,54,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,55,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,56,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,57,"trial, speed setting 40",finger travel since contact (units),force rise (N),8
+Fig. S2,C,58,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,59,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,60,"trial, speed setting 40",finger travel since contact (units),force rise (N),10
+Fig. S2,C,61,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,62,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,63,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,64,"trial, speed setting 40",finger travel since contact (units),force rise (N),9
+Fig. S2,C,65,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,66,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,67,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,68,"trial, speed setting 100",finger travel since contact (units),force rise (N),5
+Fig. S2,C,69,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,70,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,71,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,72,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,73,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,74,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,75,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,76,"trial, speed setting 100",finger travel since contact (units),force rise (N),8
+Fig. S2,C,77,"trial, speed setting 40",finger travel since contact (units),force rise (N),10
+Fig. S2,C,78,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,79,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,80,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,81,"trial, speed setting 40",finger travel since contact (units),force rise (N),9
+Fig. S2,C,82,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,83,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,84,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,85,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,86,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,87,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,88,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,89,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,90,"trial, speed setting 40",finger travel since contact (units),force rise (N),6
+Fig. S2,C,91,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,92,"trial, speed setting 40",finger travel since contact (units),force rise (N),9
+Fig. S2,C,93,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,94,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,95,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,96,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,97,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,98,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,99,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,100,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,101,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,102,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,103,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,104,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,105,"trial, speed setting 40",finger travel since contact (units),force rise (N),12
+Fig. S2,C,106,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,107,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,108,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,109,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,110,"trial, speed setting 100",finger travel since contact (units),force rise (N),7
+Fig. S2,C,111,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,112,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,113,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,114,"trial, speed setting 100",finger travel since contact (units),force rise (N),6
+Fig. S2,C,115,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,116,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,117,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,118,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,119,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,120,"trial, speed setting 40",finger travel since contact (units),force rise (N),5
+Fig. S2,C,121,"trial, speed setting 170",finger travel since contact (units),force rise (N),8
+Fig. S2,C,122,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,123,"trial, speed setting 100",finger travel since contact (units),force rise (N),10
+Fig. S2,C,124,"trial, speed setting 100",finger travel since contact (units),force rise (N),11
+Fig. S2,C,125,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,126,"trial, speed setting 100",finger travel since contact (units),force rise (N),11
+Fig. S2,C,127,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,128,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,129,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,130,"trial, speed setting 40",finger travel since contact (units),force rise (N),15
+Fig. S2,C,131,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,132,"trial, speed setting 40",finger travel since contact (units),force rise (N),11
+Fig. S2,C,133,"trial, speed setting 40",finger travel since contact (units),force rise (N),13
+Fig. S2,C,134,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,135,"trial, speed setting 100",finger travel since contact (units),force rise (N),10
+Fig. S2,C,136,"trial, speed setting 40",finger travel since contact (units),force rise (N),13
+Fig. S2,C,137,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,138,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,139,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,140,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,141,"trial, speed setting 170",finger travel since contact (units),force rise (N),8
+Fig. S2,C,142,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,143,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,144,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,145,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,146,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,147,"trial, speed setting 170",finger travel since contact (units),force rise (N),8
+Fig. S2,C,148,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,149,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,150,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,151,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,152,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,153,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,154,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,155,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,156,"trial, speed setting 170",finger travel since contact (units),force rise (N),7
+Fig. S2,C,157,"trial, speed setting 255",finger travel since contact (units),force rise (N),5
+Fig. S2,C,158,"trial, speed setting 255",finger travel since contact (units),force rise (N),6
+Fig. S2,C,159,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S2,C,160,"trial, speed setting 170",finger travel since contact (units),force rise (N),6
+Fig. S3,"A, I = 1.16 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),1168
+Fig. S3,"A, I = 1.16 kg·m²",2,"rigid hand, law",time from contact (s),target spin (deg/s),4629
+Fig. S3,"A, I = 1.16 kg·m²",3,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S3,"A, I = 1.16 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),1169
+Fig. S3,"A, I = 1.16 kg·m²",5,"rigid hand, law",time from contact (s),target spin (deg/s),4634
+Fig. S3,"A, I = 1.16 kg·m²",6,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S3,"A, I = 2.32 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),1206
+Fig. S3,"A, I = 2.32 kg·m²",2,"rigid hand, law",time from contact (s),target spin (deg/s),4787
+Fig. S3,"A, I = 2.32 kg·m²",3,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S3,"A, I = 2.32 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),1205
+Fig. S3,"A, I = 2.32 kg·m²",5,"rigid hand, law",time from contact (s),target spin (deg/s),4782
+Fig. S3,"A, I = 2.32 kg·m²",6,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S3,"B, I = 1.16 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),1167
+Fig. S3,"B, I = 1.16 kg·m²",2,"rigid hand, law",time from contact (s),target spin (deg/s),4629
+Fig. S3,"B, I = 1.16 kg·m²",3,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S3,"B, I = 1.16 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),1168
+Fig. S3,"B, I = 1.16 kg·m²",5,"rigid hand, law",time from contact (s),target spin (deg/s),4631
+Fig. S3,"B, I = 1.16 kg·m²",6,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S3,"B, I = 2.32 kg·m²",1,"rigid hand, hardware",time from contact (s),target spin (deg/s),1212
+Fig. S3,"B, I = 2.32 kg·m²",2,"rigid hand, law",time from contact (s),target spin (deg/s),4810
+Fig. S3,"B, I = 2.32 kg·m²",3,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S3,"B, I = 2.32 kg·m²",4,"rigid hand, hardware",time from contact (s),target spin (deg/s),1205
+Fig. S3,"B, I = 2.32 kg·m²",5,"rigid hand, law",time from contact (s),target spin (deg/s),4781
+Fig. S3,"B, I = 2.32 kg·m²",6,fingers open,time from contact (s),target spin (deg/s),1
+Fig. S4,A,1,hardware,rim angle from the start of the half swing (deg),torque on the target (N·m),551
+Fig. S4,A,2,"law, same motion",rim angle from the start of the half swing (deg),torque on the target (N·m),551
+Fig. S4,A,3,hardware,rim angle from the start of the half swing (deg),torque on the target (N·m),538
+Fig. S4,A,4,"law, same motion",rim angle from the start of the half swing (deg),torque on the target (N·m),538
+Fig. S4,A,5,start of the half swing,rim angle from the start of the half swing (deg),torque on the target (N·m),1
+Fig. S4,B,1,hardware,rim angle from the start of the half swing (deg),torque on the target (N·m),743
+Fig. S4,B,2,"law, same motion",rim angle from the start of the half swing (deg),torque on the target (N·m),743
+Fig. S4,B,3,hardware,rim angle from the start of the half swing (deg),torque on the target (N·m),712
+Fig. S4,B,4,"law, same motion",rim angle from the start of the half swing (deg),torque on the target (N·m),712
+Fig. S4,B,5,start of the half swing,rim angle from the start of the half swing (deg),torque on the target (N·m),1
+Fig. S5,B,1,loading cycle,rim angle (arbitrary units),element torque (arbitrary units),1198
+Fig. S5,B,2,first loading,rim angle (arbitrary units),element torque (arbitrary units),1198

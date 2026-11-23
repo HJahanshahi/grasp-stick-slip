@@ -1,0 +1,8 @@
+# analysis
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+# Movie S1 only
+pillow>=10
+# acquisition (lab computer only)
+# ur_rtde>=1.5

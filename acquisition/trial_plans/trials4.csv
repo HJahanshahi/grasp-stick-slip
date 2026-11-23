@@ -1,0 +1,13 @@
+trial,block,mode,close_speed,spin,start,force,hold,inertia,ngrasp,rep,split,status
+301,H2,sweep15,255,-30,half,180,4.5,,1,1,calib,
+302,H2,sweep15,255,-30,half,40,4.5,,1,0,calib,
+303,H2,sweep15,255,-12,half,180,4.5,,1,0,calib,
+304,H2,sweep15,255,-30,half,180,4.5,,1,0,calib,
+305,H2,sweep15,255,-12,half,100,4.5,,1,1,calib,
+306,H2,sweep15,255,-12,half,40,4.5,,1,0,calib,
+307,H2,sweep15,255,-12,half,180,4.5,,1,1,calib,
+308,H2,sweep15,255,-30,half,100,4.5,,1,1,calib,
+309,H2,sweep15,255,-30,half,100,4.5,,1,0,calib,
+310,H2,sweep15,255,-12,half,40,4.5,,1,1,test,
+311,H2,sweep15,255,-12,half,100,4.5,,1,0,test,
+312,H2,sweep15,255,-30,half,40,4.5,,1,1,test,

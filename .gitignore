@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+one_axis/out/figs/
+free_body/law_free_body.csv
+.DS_Store
+Thumbs.db

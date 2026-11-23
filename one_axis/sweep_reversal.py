@@ -2,7 +2,7 @@
 """sweep_reversal.py - at each reversal of the rim in the sweeps (blocks H, H2): tangent stiffness just before and just after,
 measured and from the law driven by the same motion. A slipping contact returns on a stiff branch; a soft spring returns on the same slope.
 
-    python sweep_reversal.py path/to/contact_pack_s2.npz      (packed raw data of session 2, in the data record)"""
+    python sweep_reversal.py path/to/contact_pack_s2.npz      (packed raw data of session 2, available from the authors)"""
 import numpy as np, json, sys
 z=np.load(sys.argv[1] if len(sys.argv)>1 else 'contact_pack_s2.npz',allow_pickle=True); trs=sorted({k.split('/')[0] for k in z.files})
 Pp=np.array([18.226839128435657,7.576894038658541,2.5894049765172324,7.557897412443152e-27,0.5641941560541658,4.4045840701688315,1.8077901051997332,1.434108483334086,40.0]); k,cp,cn=Pp[:3],Pp[3:6],Pp[6:9]

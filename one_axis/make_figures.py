@@ -7,7 +7,7 @@ Run from this folder:
     python make_figures.py --refit    refits the law (bootstrap included) and the grasp-force model first
     python make_figures.py --rebuild  also rebuilds out/metrics.csv and out/signals.npz from the packed raw data with
                                       pipeline.py (needs data/pack.npz, data2/pack_s2.npz and data2/pack_s2bad.npz,
-                                      which are in the data record, not in this repository)
+                                      which are available from the authors)
 Needs Python 3.10+ with numpy, scipy and matplotlib (see ../requirements.txt). The Inter font is used if installed."""
 import os, sys, shutil, subprocess
 HERE = os.path.dirname(os.path.abspath(__file__)); os.chdir(HERE); sys.path.insert(0, HERE)

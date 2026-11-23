@@ -68,8 +68,8 @@ free-body emulator at 125 Hz (columns in `em_cols`: time, contact force and torq
 energy terms). `ctrl` is the log of the chaser arm and hand (columns in `ctrl_cols`). `events` lists the
 events of the trial with their times. `free_body_trials_index.csv` gives the conditions of each trial.
 
-The packed raw recordings of the one-axis sessions are larger than this repository allows. They are in the
-data record given in the paper.
+The packed raw recordings of the one-axis sessions are larger than this repository allows. They are available
+from the authors.
 
 ## License
 
